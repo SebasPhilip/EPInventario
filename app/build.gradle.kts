@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.ep2inventario"
+    namespace = "com.example.inventiapp"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.ep2inventario"
+        applicationId = "com.example.inventiapp"
         minSdk = 27
         targetSdk = 37
         versionCode = 1
